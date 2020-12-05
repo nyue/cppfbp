@@ -10,3 +10,4 @@ set(Boost_link_targets
   )
 
 add_subdirectory(CppFBPCore)
+add_subdirectory(CppFBPComponents)
